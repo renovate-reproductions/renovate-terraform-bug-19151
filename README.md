@@ -1,4 +1,5 @@
-# renovate-terraform-bug-1
+# renovate-terraform-bug-19151
+
 https://github.com/renovatebot/renovate/issues/19151
 
 ## Current Behavior
